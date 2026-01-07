@@ -99,7 +99,7 @@ Mohon diproses sesuai antrean 🙏`;
 // COUNTDOWN PO (WIB FIX)
 // ===============================
 const poSessions = [
-  { start: '13:00', end: '21:00', label: 'Pre Order' }
+  { start: '13:00', end: '23:00', label: 'Pre Order' }
 ];
 
 function getWIBDate(){
